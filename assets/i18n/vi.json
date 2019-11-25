@@ -1,0 +1,110 @@
+{
+	"address-add": {
+		"add": "Thêm",
+		"addNewAddress": "Thêm địa chỉ giao hàng",
+		"inputAddress": "Vui lòng nhập địa chỉ giao hàng",
+		"inputSigner": "Vui lòng nhập tên người nhận hàng",
+		"inputSignerMobile": "Vui lòng nhập thông tin liên lạc của người nhận",
+		"inputUserAddress": "Vui lòng nhập thông tin người nhận"
+	},
+	"address-list": {
+		"addShippingAddress": "Thêm địa chỉ giao hàng",
+		"shoppingAddress": "Địa chỉ giao hàng"
+	},
+	"cart": {
+		"color": "Màu",
+		"nothing": "Vui lòng thêm một sản phẩm ...",
+		"price": "Giá",
+		"settlement": "Thanh toán",
+		"shopping_cart": "Giỏ hàng",
+		"size": "Size",
+		"sku_code": "Sở",
+		"total": "Tổng cộng"
+	},
+	"finished": "Không có sản phẩm nào khác",
+	"goods-info-detail": {
+		"addToCart": "Thêm vào giỏ hàng",
+		"buy": "Mua ngay",
+		"cart": "Giỏ hàng",
+		"choice": "Chọn",
+		"请选择": "Vui lòng chọn"
+	},
+	"goods-info-detial": {
+		"info-detail": "Chi tiết sản phẩm"
+	},
+	"hot": {
+		"guessYouLike": "Đoán xem bạn thích gì",
+		"recommend": "Gợi ý hôm nay"
+	},
+	"loading": "Đang tải...",
+	"login": {
+		"inputPassword": "Vui lòng nhập mật khẩu tài khoản",
+		"inputUsername": "Vui lòng nhập tên tài khoản",
+		"login": "Đăng nhập",
+		"password": "Mật khẩu",
+		"register": "Đăng ký",
+		"tile": "Đăng nhập",
+		"userOrPasswordNotRight": "Tên đăng nhập hoặc mật khẩu không chính xác",
+		"username": "Tên đăng nhập"
+	},
+	"order-confirm": {
+		"Attributes": "Thuộc tính",
+		"Freight": "Vận chuyển hàng hóa",
+		"addShippingAddress": "Vui lòng thêm một địa chỉ giao hàng",
+		"buyNow": "Mua ngay",
+		"buyerNotes": "Tin nhắn của người mua",
+		"cash-on-delivery": "Tiền mặt khi giao hàng",
+		"goodsAllPrice": "Tổng giá hàng hóa",
+		"notIncludeFreight": "Không bao gồm chi phí vận chuyển",
+		"order-confirm": "Xác nhận đơn hàng",
+		"size": "Kích thước"
+	},
+	"order-list": {
+		"color": "Màu",
+		"noFreight": "Không bao gồm chi phí vận chuyển",
+		"orderDate": "NGÀY ĐẶT HÀNG",
+		"orderList": "Danh sách đặt hàng",
+		"order_sn": "Số ĐẶT HÀNG",
+		"size": "Kích thước",
+		"totalPrice": "TỔNG GIÁ"
+	},
+	"personal": {
+		"all_order": "Tất cả các đơn đặt hàng",
+		"login": "Đăng nhập",
+		"logout": "Thoát ra",
+		"my-favorite": "Bộ sưu tập của tôi",
+		"non-payment": "Đang chờ thanh toán",
+		"non-received": "Chờ nhận hàng",
+		"register": "Đăng ký",
+		"select-language": "Ngôn ngữ",
+		"title": "Cá nhân",
+		"user_level": "Cấp độ người dùng",
+		"username": "Tên đăng nhập"
+	},
+	"register": {
+		"PasswordInconsistent": "Hai mật khẩu không nhất quán",
+		"createUserSuccess": "Tạo thành công cho người dùng",
+		"inputPassword": "Vui lòng nhập mật khẩu của bạn",
+		"inputPasswordAgain": "Vui lòng nhập lại mật khẩu của bạn",
+		"inputUsername": "Vui lòng nhập tên người dùng",
+		"login": "Đăng nhập",
+		"password": "Mật khẩu",
+		"register": "Đăng ký",
+		"username": "Tên đăng nhập"
+	},
+	"search": {
+		"history": "Lịch sử của tôi",
+		"hotSearch": "Tìm kiếm phổ biến"
+	},
+	"tabs": {
+		"个人": "Cá nhân",
+		"热门": "Phổ biến",
+		"类别": "Danh mục",
+		"购物车": "Giỏ hàng"
+	},
+	"tutorial": {
+		"Continue": "Tiếp tục",
+		"Skip": "Bỏ qua",
+		"welcome": "Chào mừng bạn"
+	}
+}

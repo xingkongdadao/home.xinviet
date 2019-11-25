@@ -1,0 +1,110 @@
+{
+	"address-add": {
+		"add": "添加",
+		"addNewAddress": "新增收貨地址",
+		"inputAddress": "請輸入收貨地址",
+		"inputSigner": "請輸入收貨人姓名",
+		"inputSignerMobile": "請輸入收件人聯繫方式",
+		"inputUserAddress": "請輸入收件人信息"
+	},
+	"address-list": {
+		"addShippingAddress": "添加送貨地址",
+		"shoppingAddress": "送貨地址"
+	},
+	"cart": {
+		"color": "顏色",
+		"nothing": "請添加商品...",
+		"price": "價格",
+		"settlement": "結算",
+		"shopping_cart": "購物車",
+		"size": "尺寸",
+		"sku_code": "編號",
+		"total": "共計"
+	},
+	"finished": "結束",
+	"goods-info-detail": {
+		"addToCart": "加入購物車",
+		"buy": "立刻購買",
+		"cart": "購物車",
+		"choice": "選擇",
+		"请选择": "請選擇"
+	},
+	"goods-info-detial": {
+		"info-detail": "商品詳細信息"
+	},
+	"hot": {
+		"guessYouLike": "猜你喜歡",
+		"recommend": "熱門推薦"
+	},
+	"loading": "拼命加載中...",
+	"login": {
+		"inputPassword": "請輸入賬戶密碼",
+		"inputUsername": "請輸入賬戶用戶名",
+		"login": "登錄",
+		"password": "密碼",
+		"register": "註冊",
+		"tile": "登錄",
+		"userOrPasswordNotRight": "用戶名或密碼錯誤",
+		"username": "用戶名"
+	},
+	"order-confirm": {
+		"Attributes": "屬性",
+		"Freight": "運費",
+		"addShippingAddress": "請添加收貨地址",
+		"buyNow": "立刻購買",
+		"buyerNotes": "買家留言",
+		"cash-on-delivery": "貨到付款",
+		"goodsAllPrice": "商品總價",
+		"notIncludeFreight": "不包含運費",
+		"order-confirm": "訂單確認",
+		"size": "尺寸"
+	},
+	"order-list": {
+		"color": "顏色",
+		"noFreight": "不包含運費",
+		"orderDate": "訂單日期",
+		"orderList": "訂單列表",
+		"order_sn": "訂單號",
+		"size": "尺寸",
+		"totalPrice": "總價"
+	},
+	"personal": {
+		"all_order": "所有訂單",
+		"login": "登錄",
+		"logout": "登出",
+		"my-favorite": "我的收藏",
+		"non-payment": "待付款",
+		"non-received": "待收貨",
+		"register": "註冊",
+		"select-language": "語言",
+		"title": "個人",
+		"user_level": "用戶等級",
+		"username": "用戶名"
+	},
+	"register": {
+		"PasswordInconsistent": "兩次密碼不一致",
+		"createUserSuccess": "創建用戶成功",
+		"inputPassword": "請輸入密碼",
+		"inputPasswordAgain": "請再次輸入密碼",
+		"inputUsername": "請輸入用戶名",
+		"login": "登入",
+		"password": "密碼",
+		"register": "註冊",
+		"username": "用戶名"
+	},
+	"search": {
+		"history": "歷史記錄",
+		"hotSearch": "熱門搜索"
+	},
+	"tabs": {
+		"个人": "個人",
+		"热门": "熱門",
+		"类别": "類別",
+		"购物车": "購物車"
+	},
+	"tutorial": {
+		"Continue": "繼續",
+		"Skip": "跳過",
+		"welcome": "歡迎"
+	}
+}

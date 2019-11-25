@@ -1,0 +1,110 @@
+{
+	"address-add": {
+		"add": "추가",
+		"addNewAddress": "배송지 주소 추가",
+		"inputAddress": "배송지 주소를 입력하십시오",
+		"inputSigner": "수취인 이름을 입력하십시오",
+		"inputSignerMobile": "수신자 연락처 정보를 입력하십시오",
+		"inputUserAddress": "수신자 정보를 입력하십시오"
+	},
+	"address-list": {
+		"addShippingAddress": "배송지 주소 추가",
+		"shoppingAddress": "배송지 주소"
+	},
+	"cart": {
+		"color": "색깔",
+		"nothing": "제품을 추가하십시오 ...",
+		"price": "가격",
+		"settlement": "정산",
+		"shopping_cart": "장바구니",
+		"size": "사이즈",
+		"sku_code": "번호",
+		"total": "총계"
+	},
+	"finished": "끝",
+	"goods-info-detail": {
+		"addToCart": "장바구니에 담기",
+		"buy": "지금 구매",
+		"cart": "장바구니",
+		"choice": "선택",
+		"请选择": "선택하세요"
+	},
+	"goods-info-detial": {
+		"info-detail": "제품 세부 사항"
+	},
+	"hot": {
+		"guessYouLike": "당신이 좋아하는 것 같아",
+		"recommend": "인기 추천"
+	},
+	"loading": "필사적으로로드 중 ...",
+	"login": {
+		"inputPassword": "계정 비밀번호를 입력하십시오",
+		"inputUsername": "계정 사용자 이름을 입력하십시오",
+		"login": "로그인",
+		"password": "비밀번호",
+		"register": "등록",
+		"tile": "로그인",
+		"userOrPasswordNotRight": "사용자 이름 또는 비밀번호가 잘못되었습니다",
+		"username": "아이디"
+	},
+	"order-confirm": {
+		"Attributes": "속성",
+		"Freight": "운임",
+		"addShippingAddress": "배송지 주소를 추가하십시오",
+		"buyNow": "지금 구매",
+		"buyerNotes": "구매자 메시지",
+		"cash-on-delivery": "대금 상환",
+		"goodsAllPrice": "상품의 총 가격",
+		"notIncludeFreight": "운송비는 포함되지 않습니다",
+		"order-confirm": "주문 확인",
+		"size": "사이즈"
+	},
+	"order-list": {
+		"color": "색깔",
+		"noFreight": "운송비는 포함되지 않습니다",
+		"orderDate": "주문 날짜",
+		"orderList": "주문 목록",
+		"order_sn": "주문 번호",
+		"size": "사이즈",
+		"totalPrice": "총 가격"
+	},
+	"personal": {
+		"all_order": "모든 주문",
+		"login": "로그인",
+		"logout": "로그 아웃",
+		"my-favorite": "내 컬렉션",
+		"non-payment": "지불 보류",
+		"non-received": "보류중인 영수증",
+		"register": "등록",
+		"select-language": "언어",
+		"title": "개인",
+		"user_level": "사용자 수준",
+		"username": "아이디"
+	},
+	"register": {
+		"PasswordInconsistent": "두 개의 암호가 일치하지 않습니다",
+		"createUserSuccess": "사용자 성공 창출",
+		"inputPassword": "비밀번호를 입력하십시오",
+		"inputPasswordAgain": "비밀번호를 다시 입력하십시오",
+		"inputUsername": "사용자 이름을 입력하십시오",
+		"login": "로그인",
+		"password": "비밀번호",
+		"register": "등록",
+		"username": "아이디"
+	},
+	"search": {
+		"history": "연혁",
+		"hotSearch": "인기 검색"
+	},
+	"tabs": {
+		"个人": "개인",
+		"热门": "인기있는",
+		"类别": "카테고리",
+		"购物车": "장바구니"
+	},
+	"tutorial": {
+		"Continue": "계속",
+		"Skip": "건너 뛰기",
+		"welcome": "환영합니다"
+	}
+}

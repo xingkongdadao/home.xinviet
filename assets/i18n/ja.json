@@ -1,0 +1,110 @@
+{
+	"address-add": {
+		"add": "追加する",
+		"addNewAddress": "配送先住所を追加",
+		"inputAddress": "配送先住所を入力してください",
+		"inputSigner": "荷受人の名前を入力してください",
+		"inputSignerMobile": "受信者の連絡先情報を入力してください",
+		"inputUserAddress": "受信者情報を入力してください"
+	},
+	"address-list": {
+		"addShippingAddress": "配送先住所を追加",
+		"shoppingAddress": "配送先住所"
+	},
+	"cart": {
+		"color": "色",
+		"nothing": "製品を追加してください...",
+		"price": "価格",
+		"settlement": "和解",
+		"shopping_cart": "ショッピングカート",
+		"size": "サイズ",
+		"sku_code": "番号",
+		"total": "合計"
+	},
+	"finished": "終了",
+	"goods-info-detail": {
+		"addToCart": "カートに追加",
+		"buy": "今すぐ購入",
+		"cart": "ショッピングカート",
+		"choice": "選ぶ",
+		"请选择": "選択してください"
+	},
+	"goods-info-detial": {
+		"info-detail": "製品の詳細"
+	},
+	"hot": {
+		"guessYouLike": "あなたが好きなものを推測する",
+		"recommend": "人気の推薦"
+	},
+	"loading": "必死に読み込んでいます...",
+	"login": {
+		"inputPassword": "アカウントのパスワードを入力してください",
+		"inputUsername": "アカウントのユーザー名を入力してください",
+		"login": "ログイン",
+		"password": "パスワード",
+		"register": "登録",
+		"tile": "ログイン",
+		"userOrPasswordNotRight": "ユーザー名またはパスワードが間違っています",
+		"username": "ユーザー名"
+	},
+	"order-confirm": {
+		"Attributes": "属性",
+		"Freight": "貨物",
+		"addShippingAddress": "配送先住所を追加してください",
+		"buyNow": "今すぐ購入",
+		"buyerNotes": "バイヤーメッセージ",
+		"cash-on-delivery": "代金引換",
+		"goodsAllPrice": "商品の合計価格",
+		"notIncludeFreight": "送料は含まれていません",
+		"order-confirm": "注文確認",
+		"size": "サイズ"
+	},
+	"order-list": {
+		"color": "色",
+		"noFreight": "送料は含まれていません",
+		"orderDate": "注文日",
+		"orderList": "注文リスト",
+		"order_sn": "注文番号",
+		"size": "サイズ",
+		"totalPrice": "合計金額"
+	},
+	"personal": {
+		"all_order": "すべての注文",
+		"login": "ログイン",
+		"logout": "ログアウト",
+		"my-favorite": "私のコレクション",
+		"non-payment": "保留中の支払い",
+		"non-received": "保留中の領収書",
+		"register": "登録",
+		"select-language": "言語",
+		"title": "個人",
+		"user_level": "ユーザーレベル",
+		"username": "ユーザー名"
+	},
+	"register": {
+		"PasswordInconsistent": "2つのパスワードに一貫性がない",
+		"createUserSuccess": "ユーザーの成功を作成する",
+		"inputPassword": "パスワードを入力してください",
+		"inputPasswordAgain": "もう一度パスワードを入力してください",
+		"inputUsername": "ユーザー名を入力してください",
+		"login": "ログイン",
+		"password": "パスワード",
+		"register": "登録",
+		"username": "ユーザー名"
+	},
+	"search": {
+		"history": "歴史",
+		"hotSearch": "人気の検索"
+	},
+	"tabs": {
+		"个人": "個人",
+		"热门": "人気",
+		"类别": "カテゴリー",
+		"购物车": "ショッピングカート"
+	},
+	"tutorial": {
+		"Continue": "続ける",
+		"Skip": "スキップ",
+		"welcome": "ようこそ"
+	}
+}

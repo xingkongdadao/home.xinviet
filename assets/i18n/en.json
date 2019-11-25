@@ -1,0 +1,110 @@
+{
+	"address-add": {
+		"add": "Add to",
+		"addNewAddress": "New Shipping Address",
+		"inputAddress": "Please enter the shipping address",
+		"inputSigner": "Please enter the consignee name",
+		"inputSignerMobile": "Please enter the recipient contact information",
+		"inputUserAddress": "Please enter recipient information"
+	},
+	"address-list": {
+		"addShippingAddress": "Add Shipping Address",
+		"shoppingAddress": "Delivery address"
+	},
+	"cart": {
+		"color": "colour",
+		"nothing": "Please add a product...",
+		"price": "Price",
+		"settlement": "Settlement",
+		"shopping_cart": "Shopping cart",
+		"size": "size",
+		"sku_code": "Numbering",
+		"total": "total"
+	},
+	"finished": "END",
+	"goods-info-detail": {
+		"addToCart": "add to Cart",
+		"buy": "Buy",
+		"cart": "Shopping cart",
+		"choice": "Select",
+		"请选择": "please choose"
+	},
+	"goods-info-detial": {
+		"info-detail": "Product details"
+	},
+	"hot": {
+		"guessYouLike": "guess you like",
+		"recommend": "Popular recommendation"
+	},
+	"loading": "Desperately loading...",
+	"login": {
+		"inputPassword": "Please enter the account password",
+		"inputUsername": "Please enter the account username",
+		"login": "Log In",
+		"password": "Password",
+		"register": "Register",
+		"tile": "Log In",
+		"userOrPasswordNotRight": "wrong user name or password",
+		"username": "Username"
+	},
+	"order-confirm": {
+		"Attributes": "Attributes",
+		"Freight": "Freight",
+		"addShippingAddress": "Please add a shipping address",
+		"buyNow": "Buy now",
+		"buyerNotes": "Buyer message",
+		"cash-on-delivery": "Cash on Delivery",
+		"goodsAllPrice": "Total price of goods",
+		"notIncludeFreight": "Does not include shipping costs",
+		"order-confirm": "Order Confirmation",
+		"size": "size"
+	},
+	"order-list": {
+		"color": "colour",
+		"noFreight": "Does not include shipping costs",
+		"orderDate": "Order date",
+		"orderList": "Order list",
+		"order_sn": "order number",
+		"size": "size",
+		"totalPrice": "Total price"
+	},
+	"personal": {
+		"all_order": "All orders",
+		"login": "Log In",
+		"logout": "Sign Out",
+		"my-favorite": "my collection",
+		"non-payment": "Pending Payment",
+		"non-received": "Pending receipt",
+		"register": "Register",
+		"select-language": "Language",
+		"title": "Personal",
+		"user_level": "User level",
+		"username": "Username"
+	},
+	"register": {
+		"PasswordInconsistent": "Two passwords are inconsistent",
+		"createUserSuccess": "Create user success",
+		"inputPassword": "Please enter your password",
+		"inputPasswordAgain": "Please enter your password again",
+		"inputUsername": "please enter user name",
+		"login": "sign in",
+		"password": "Password",
+		"register": "Registered",
+		"username": "Username"
+	},
+	"search": {
+		"history": "history record",
+		"hotSearch": "Popular searches"
+	},
+	"tabs": {
+		"个人": "personal",
+		"热门": "hot",
+		"类别": "classify",
+		"购物车": "cart"
+	},
+	"tutorial": {
+		"Continue": "continue",
+		"Skip": "skip",
+		"welcome": "Welcome"
+	}
+}
