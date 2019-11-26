@@ -1,4 +1,12 @@
 {
+	"about": {
+		"address": "聯繫地址",
+		"mobile": "手機號碼",
+		"name": "聯繫人",
+		"siteInfo": "網站信息",
+		"trung": "漢語",
+		"viet": "越南語"
+	},
 	"address-add": {
 		"add": "添加",
 		"addNewAddress": "新增收貨地址",
@@ -34,6 +42,8 @@
 	},
 	"hot": {
 		"guessYouLike": "猜你喜歡",
+		"loginSeePrice": "登陸後查看價格",
+		"price-wholesale": "批發價",
 		"recommend": "熱門推薦"
 	},
 	"loading": "拼命加載中...",
@@ -59,8 +69,27 @@
 		"order-confirm": "訂單確認",
 		"size": "尺寸"
 	},
+	"order-detail": {
+		"address": "收貨地址",
+		"color": "顏色",
+		"goodsSkuInfo": "商品信息",
+		"logisticInfo": "物流信息",
+		"orderDate": "訂單日期",
+		"orderDetail": "訂單詳情",
+		"order_sn": "訂單號",
+		"sellerAddress": "賣家地址",
+		"sellerInfo": "賣家信息",
+		"sellerMobile": "聯繫方式",
+		"sellerName": "發貨人",
+		"signer": "收貨人",
+		"singerInfo": "買家信息",
+		"singerMobile": "買家電話",
+		"size": "尺寸",
+		"totalPrice": "總價"
+	},
 	"order-list": {
 		"color": "顏色",
+		"contactSeller": "聯繫賣家",
 		"noFreight": "不包含運費",
 		"orderDate": "訂單日期",
 		"orderList": "訂單列表",
@@ -69,6 +98,7 @@
 		"totalPrice": "總價"
 	},
 	"personal": {
+		"about": "關於本站",
 		"all_order": "所有訂單",
 		"login": "登錄",
 		"logout": "登出",
@@ -84,10 +114,14 @@
 	"register": {
 		"PasswordInconsistent": "兩次密碼不一致",
 		"createUserSuccess": "創建用戶成功",
+		"inputMobile": "請輸入手機號",
+		"inputNickName": "請輸入暱稱",
 		"inputPassword": "請輸入密碼",
 		"inputPasswordAgain": "請再次輸入密碼",
 		"inputUsername": "請輸入用戶名",
 		"login": "登入",
+		"mobile": "電話",
+		"nickName": "暱稱",
 		"password": "密碼",
 		"register": "註冊",
 		"username": "用戶名"

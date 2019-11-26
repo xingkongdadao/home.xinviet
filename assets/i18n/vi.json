@@ -1,4 +1,12 @@
 {
+	"about": {
+		"address": "Địa chỉ liên lạc",
+		"mobile": "Số điện thoại",
+		"name": "Người liên hệ",
+		"siteInfo": "Thông tin trang web",
+		"trung": "Trung Quốc",
+		"viet": "Tiếng việt nam"
+	},
 	"address-add": {
 		"add": "Thêm",
 		"addNewAddress": "Thêm địa chỉ giao hàng",
@@ -34,6 +42,8 @@
 	},
 	"hot": {
 		"guessYouLike": "Đoán xem bạn thích gì",
+		"loginSeePrice": "Kiểm tra giá sau khi đăng nhập",
+		"price-wholesale": "Giá sỉ",
 		"recommend": "Gợi ý hôm nay"
 	},
 	"loading": "Đang tải...",
@@ -59,8 +69,27 @@
 		"order-confirm": "Xác nhận đơn hàng",
 		"size": "Kích thước"
 	},
+	"order-detail": {
+		"address": "Địa chỉ giao hàng",
+		"color": "Màu",
+		"goodsSkuInfo": "Thông tin sản phẩm",
+		"logisticInfo": "Thông tin hậu cần",
+		"orderDate": "NGÀY ĐẶT HÀNG",
+		"orderDetail": "Chi tiết đặt hàng",
+		"order_sn": "Số thứ tự",
+		"sellerAddress": "Địa chỉ người bán",
+		"sellerInfo": "Thông tin người bán",
+		"sellerMobile": "Thông tin liên lạc",
+		"sellerName": "Người gửi hàng",
+		"signer": "Người nhận hàng",
+		"singerInfo": "Thông tin người mua",
+		"singerMobile": "Điện thoại người mua",
+		"size": "Kích thước",
+		"totalPrice": "TỔNG GIÁ"
+	},
 	"order-list": {
 		"color": "Màu",
+		"contactSeller": "Liên hệ với người bán",
 		"noFreight": "Không bao gồm chi phí vận chuyển",
 		"orderDate": "NGÀY ĐẶT HÀNG",
 		"orderList": "Danh sách đặt hàng",
@@ -69,6 +98,7 @@
 		"totalPrice": "TỔNG GIÁ"
 	},
 	"personal": {
+		"about": "Về trang web này",
 		"all_order": "Tất cả các đơn đặt hàng",
 		"login": "Đăng nhập",
 		"logout": "Thoát ra",
@@ -84,10 +114,14 @@
 	"register": {
 		"PasswordInconsistent": "Hai mật khẩu không nhất quán",
 		"createUserSuccess": "Tạo thành công cho người dùng",
+		"inputMobile": "Vui lòng nhập số điện thoại của bạn",
+		"inputNickName": "Vui lòng nhập tên hiệu",
 		"inputPassword": "Vui lòng nhập mật khẩu của bạn",
 		"inputPasswordAgain": "Vui lòng nhập lại mật khẩu của bạn",
 		"inputUsername": "Vui lòng nhập tên người dùng",
 		"login": "Đăng nhập",
+		"mobile": "Điện thoại",
+		"nickName": "Biệt danh",
 		"password": "Mật khẩu",
 		"register": "Đăng ký",
 		"username": "Tên đăng nhập"

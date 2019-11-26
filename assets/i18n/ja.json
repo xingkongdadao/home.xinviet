@@ -1,4 +1,12 @@
 {
+	"about": {
+		"address": "連絡先",
+		"mobile": "携帯電話番号",
+		"name": "連絡先",
+		"siteInfo": "ウェブサイト情報",
+		"trung": "中国語",
+		"viet": "ベトナム人"
+	},
 	"address-add": {
 		"add": "追加する",
 		"addNewAddress": "配送先住所を追加",
@@ -34,6 +42,8 @@
 	},
 	"hot": {
 		"guessYouLike": "あなたが好きなものを推測する",
+		"loginSeePrice": "ログイン後に価格を確認する",
+		"price-wholesale": "卸売価格",
 		"recommend": "人気の推薦"
 	},
 	"loading": "必死に読み込んでいます...",
@@ -59,8 +69,27 @@
 		"order-confirm": "注文確認",
 		"size": "サイズ"
 	},
+	"order-detail": {
+		"address": "配送先住所",
+		"color": "色",
+		"goodsSkuInfo": "製品情報",
+		"logisticInfo": "物流情報",
+		"orderDate": "注文日",
+		"orderDetail": "注文の詳細",
+		"order_sn": "注文番号",
+		"sellerAddress": "売り手の住所",
+		"sellerInfo": "販売者情報",
+		"sellerMobile": "連絡先",
+		"sellerName": "荷送人",
+		"signer": "荷受人",
+		"singerInfo": "バイヤー情報",
+		"singerMobile": "購入者の電話",
+		"size": "サイズ",
+		"totalPrice": "合計金額"
+	},
 	"order-list": {
 		"color": "色",
+		"contactSeller": "販売者に連絡する",
 		"noFreight": "送料は含まれていません",
 		"orderDate": "注文日",
 		"orderList": "注文リスト",
@@ -69,6 +98,7 @@
 		"totalPrice": "合計金額"
 	},
 	"personal": {
+		"about": "このサイトについて",
 		"all_order": "すべての注文",
 		"login": "ログイン",
 		"logout": "ログアウト",
@@ -84,10 +114,14 @@
 	"register": {
 		"PasswordInconsistent": "2つのパスワードに一貫性がない",
 		"createUserSuccess": "ユーザーの成功を作成する",
+		"inputMobile": "電話番号を入力してください",
+		"inputNickName": "ニックネームを入力してください",
 		"inputPassword": "パスワードを入力してください",
 		"inputPasswordAgain": "もう一度パスワードを入力してください",
 		"inputUsername": "ユーザー名を入力してください",
 		"login": "ログイン",
+		"mobile": "電話番号",
+		"nickName": "ニックネーム",
 		"password": "パスワード",
 		"register": "登録",
 		"username": "ユーザー名"

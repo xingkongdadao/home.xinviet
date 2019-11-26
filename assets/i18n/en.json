@@ -1,4 +1,12 @@
 {
+	"about": {
+		"address": "contact address",
+		"mobile": "cellphone number",
+		"name": "Contact",
+		"siteInfo": "Website Information",
+		"trung": "Chinese",
+		"viet": "Vietnamese"
+	},
 	"address-add": {
 		"add": "Add to",
 		"addNewAddress": "New Shipping Address",
@@ -34,6 +42,8 @@
 	},
 	"hot": {
 		"guessYouLike": "guess you like",
+		"loginSeePrice": "Check prices after login",
+		"price-wholesale": "Wholesale price",
 		"recommend": "Popular recommendation"
 	},
 	"loading": "Desperately loading...",
@@ -59,8 +69,27 @@
 		"order-confirm": "Order Confirmation",
 		"size": "size"
 	},
+	"order-detail": {
+		"address": "Shipping Address",
+		"color": "colour",
+		"goodsSkuInfo": "product information",
+		"logisticInfo": "logistics information",
+		"orderDate": "Order date",
+		"orderDetail": "Order Details",
+		"order_sn": "order number",
+		"sellerAddress": "Seller address",
+		"sellerInfo": "seller's information",
+		"sellerMobile": "Contact Information",
+		"sellerName": "Sender",
+		"signer": "receiver",
+		"singerInfo": "Buyer Information",
+		"singerMobile": "Buyer phone",
+		"size": "size",
+		"totalPrice": "Total price"
+	},
 	"order-list": {
 		"color": "colour",
+		"contactSeller": "Contact Seller",
 		"noFreight": "Does not include shipping costs",
 		"orderDate": "Order date",
 		"orderList": "Order list",
@@ -69,6 +98,7 @@
 		"totalPrice": "Total price"
 	},
 	"personal": {
+		"about": "About this site",
 		"all_order": "All orders",
 		"login": "Log In",
 		"logout": "Sign Out",
@@ -84,10 +114,14 @@
 	"register": {
 		"PasswordInconsistent": "Two passwords are inconsistent",
 		"createUserSuccess": "Create user success",
+		"inputMobile": "Please enter phone number",
+		"inputNickName": "Please enter a nickname",
 		"inputPassword": "Please enter your password",
 		"inputPasswordAgain": "Please enter your password again",
 		"inputUsername": "please enter user name",
 		"login": "sign in",
+		"mobile": "Phone",
+		"nickName": "Nickname",
 		"password": "Password",
 		"register": "Registered",
 		"username": "Username"
