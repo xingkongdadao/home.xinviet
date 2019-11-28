@@ -32,13 +32,13 @@
 	"finished": "Không có sản phẩm nào khác",
 	"goods-info-detail": {
 		"addToCart": "Thêm vào giỏ hàng",
+		"addToCartSuccess": "Đã thêm thành công",
 		"buy": "Mua ngay",
 		"cart": "Giỏ hàng",
-		"choice": "Chọn",
-		"请选择": "Vui lòng chọn"
-	},
-	"goods-info-detial": {
-		"info-detail": "Chi tiết sản phẩm"
+		"info-detail": "Chi tiết sản phẩm",
+		"pleaseLogin": "Vui lòng đăng nhập",
+		"pleaseSelect": "Vui lòng chọn",
+		"selectColorSize": "Màu sắc và kích thước sản phẩm"
 	},
 	"hot": {
 		"guessYouLike": "Đoán xem bạn thích gì",
@@ -67,6 +67,8 @@
 		"goodsAllPrice": "Tổng giá hàng hóa",
 		"notIncludeFreight": "Không bao gồm chi phí vận chuyển",
 		"order-confirm": "Xác nhận đơn hàng",
+		"payment-method": "Phương thức thanh toán",
+		"selectUserAddress": "Vui lòng chọn một địa chỉ giao hàng",
 		"size": "Kích thước"
 	},
 	"order-detail": {

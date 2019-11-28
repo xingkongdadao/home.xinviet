@@ -32,13 +32,13 @@
 	"finished": "結束",
 	"goods-info-detail": {
 		"addToCart": "加入購物車",
+		"addToCartSuccess": "添加成功",
 		"buy": "立刻購買",
 		"cart": "購物車",
-		"choice": "選擇",
-		"请选择": "請選擇"
-	},
-	"goods-info-detial": {
-		"info-detail": "商品詳細信息"
+		"info-detail": "商品詳情",
+		"pleaseLogin": "請登錄",
+		"pleaseSelect": "請選擇",
+		"selectColorSize": "商品顏色和尺寸"
 	},
 	"hot": {
 		"guessYouLike": "猜你喜歡",
@@ -67,6 +67,8 @@
 		"goodsAllPrice": "商品總價",
 		"notIncludeFreight": "不包含運費",
 		"order-confirm": "訂單確認",
+		"payment-method": "付款方式",
+		"selectUserAddress": "請選擇收貨地址",
 		"size": "尺寸"
 	},
 	"order-detail": {

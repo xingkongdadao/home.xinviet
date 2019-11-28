@@ -32,13 +32,13 @@
 	"finished": "END",
 	"goods-info-detail": {
 		"addToCart": "add to Cart",
+		"addToCartSuccess": "Added successfully",
 		"buy": "Buy",
 		"cart": "Shopping cart",
-		"choice": "Select",
-		"请选择": "please choose"
-	},
-	"goods-info-detial": {
-		"info-detail": "Product details"
+		"info-detail": "Product details",
+		"pleaseLogin": "Please sign in",
+		"pleaseSelect": "please choose",
+		"selectColorSize": "Product color and size"
 	},
 	"hot": {
 		"guessYouLike": "guess you like",
@@ -67,6 +67,8 @@
 		"goodsAllPrice": "Total price of goods",
 		"notIncludeFreight": "Does not include shipping costs",
 		"order-confirm": "Order Confirmation",
+		"payment-method": "Payment method",
+		"selectUserAddress": "Please select a delivery address",
 		"size": "size"
 	},
 	"order-detail": {

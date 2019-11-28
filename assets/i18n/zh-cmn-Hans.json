@@ -32,13 +32,13 @@
 	"finished": "结束",
 	"goods-info-detail": {
 		"addToCart": "加入购物车",
+		"addToCartSuccess": "添加成功",
 		"buy": "立刻购买",
 		"cart": "购物车",
-		"choice": "选择",
-		"请选择": "请选择"
-	},
-	"goods-info-detial": {
-		"info-detail": "商品详细信息"
+		"info-detail": "商品详情",
+		"pleaseLogin": "请登录",
+		"pleaseSelect": "请选择",
+		"selectColorSize": "商品颜色和尺寸"
 	},
 	"hot": {
 		"guessYouLike": "猜你喜欢",
@@ -67,6 +67,8 @@
 		"goodsAllPrice": "商品总价",
 		"notIncludeFreight": "不包含运费",
 		"order-confirm": "订单确认",
+		"payment-method": "付款方式",
+		"selectUserAddress": "请选择收货地址",
 		"size": "尺寸"
 	},
 	"order-detail": {

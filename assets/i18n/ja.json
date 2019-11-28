@@ -32,13 +32,13 @@
 	"finished": "終了",
 	"goods-info-detail": {
 		"addToCart": "カートに追加",
+		"addToCartSuccess": "正常に追加されました",
 		"buy": "今すぐ購入",
 		"cart": "ショッピングカート",
-		"choice": "選ぶ",
-		"请选择": "選択してください"
-	},
-	"goods-info-detial": {
-		"info-detail": "製品の詳細"
+		"info-detail": "製品の詳細",
+		"pleaseLogin": "ログインしてください",
+		"pleaseSelect": "選択してください",
+		"selectColorSize": "製品の色とサイズ"
 	},
 	"hot": {
 		"guessYouLike": "あなたが好きなものを推測する",
@@ -67,6 +67,8 @@
 		"goodsAllPrice": "商品の合計価格",
 		"notIncludeFreight": "送料は含まれていません",
 		"order-confirm": "注文確認",
+		"payment-method": "支払方法",
+		"selectUserAddress": "配送先を選択してください",
 		"size": "サイズ"
 	},
 	"order-detail": {
