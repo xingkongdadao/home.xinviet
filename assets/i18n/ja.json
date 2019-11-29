@@ -43,6 +43,7 @@
 	"hot": {
 		"guessYouLike": "あなたが好きなものを推測する",
 		"loginSeePrice": "ログイン後に価格を確認する",
+		"price-sell-advise": "希望販売価格",
 		"price-wholesale": "卸売価格",
 		"recommend": "人気の推薦"
 	},
