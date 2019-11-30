@@ -29,7 +29,7 @@
 		"settlement": "Thanh toán",
 		"shopping_cart": "Giỏ hàng",
 		"size": "Size",
-		"sku_code": "Sở",
+		"sku_code": "số",
 		"total": "Tổng cộng"
 	},
 	"finished": "Không có sản phẩm nào khác",
@@ -99,7 +99,7 @@
 		"noFreight": "Không bao gồm chi phí vận chuyển",
 		"orderDate": "NGÀY ĐẶT HÀNG",
 		"orderList": "Danh sách đặt hàng",
-		"order_sn": "Số ĐẶT HÀNG",
+		"order_sn": "ID Đơn Hàng",
 		"size": "Kích thước",
 		"totalPrice": "TỔNG GIÁ"
 	},
