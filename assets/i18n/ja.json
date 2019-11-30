@@ -19,6 +19,9 @@
 		"addShippingAddress": "配送先住所を追加",
 		"shoppingAddress": "配送先住所"
 	},
+	"admin-category-list": {
+		"title": "製品カテゴリ一覧"
+	},
 	"cart": {
 		"color": "色",
 		"nothing": "製品を追加してください...",
@@ -102,6 +105,7 @@
 	},
 	"personal": {
 		"about": "このサイトについて",
+		"admin": "",
 		"all_order": "すべての注文",
 		"login": "ログイン",
 		"logout": "ログアウト",
@@ -126,6 +130,7 @@
 		"mobile": "電話番号",
 		"nickName": "ニックネーム",
 		"password": "パスワード",
+		"passwordConfirm": "パスワード確認",
 		"register": "登録",
 		"username": "ユーザー名"
 	},

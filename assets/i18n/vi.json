@@ -19,6 +19,9 @@
 		"addShippingAddress": "Thêm địa chỉ giao hàng",
 		"shoppingAddress": "Địa chỉ giao hàng"
 	},
+	"admin-category-list": {
+		"title": "danh mục loại sản phẩm"
+	},
 	"cart": {
 		"color": "Màu",
 		"nothing": "Vui lòng thêm một sản phẩm ...",
@@ -102,6 +105,7 @@
 	},
 	"personal": {
 		"about": "Về trang web này",
+		"admin": "quản lý",
 		"all_order": "Tất cả các đơn đặt hàng",
 		"login": "Đăng nhập",
 		"logout": "Thoát ra",
@@ -126,6 +130,7 @@
 		"mobile": "Điện thoại",
 		"nickName": "Biệt danh",
 		"password": "Mật khẩu",
+		"passwordConfirm": "Xác nhận mật khẩu",
 		"register": "Đăng ký",
 		"username": "Tên đăng nhập"
 	},

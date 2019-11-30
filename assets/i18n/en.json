@@ -19,6 +19,9 @@
 		"addShippingAddress": "Add Shipping Address",
 		"shoppingAddress": "Delivery address"
 	},
+	"admin-category-list": {
+		"title": "Product Category List"
+	},
 	"cart": {
 		"color": "colour",
 		"nothing": "Please add a product...",
@@ -102,6 +105,7 @@
 	},
 	"personal": {
 		"about": "About this site",
+		"admin": "admin",
 		"all_order": "All orders",
 		"login": "Log In",
 		"logout": "Sign Out",
@@ -126,6 +130,7 @@
 		"mobile": "Phone",
 		"nickName": "Nickname",
 		"password": "Password",
+		"passwordConfirm": "Password Confirmation",
 		"register": "Registered",
 		"username": "Username"
 	},
